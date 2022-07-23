@@ -5,6 +5,7 @@
 <h3 align="center">IndiansSolveClothing</h2>
 <h3 align="center">Virtual Try-On Luxury</h2> 
 <h3 align="center">Runners Up iNTUition v8.0</h2>
+<h3 align="center'>Devpost link: https://devpost.com/software/indianssolveclothing</h2>
 
 ---
 
